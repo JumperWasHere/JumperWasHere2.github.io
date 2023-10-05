@@ -1,5 +1,6 @@
 export const environment = {
 
-    API_URL:'https://www.seal.petronas.com/api',
+  API_URL:'http://test-demo.aemenersol.com/api',
+
   production: true
 };
